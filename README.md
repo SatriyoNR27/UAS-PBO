@@ -15,3 +15,6 @@ Dandung Janitra Nugroho
 7. Open Project
 8. Jika ada error, import library di crud_java-master  .jar
 9. lalu RUN PROJECK
+
+
+![hasil1](https://user-images.githubusercontent.com/47838715/185735870-9abe5989-85e3-4965-b003-011f1e66fd42.png)
